@@ -17,9 +17,9 @@
 
 // pin name definitions
 // see variant.cpp for arduino pin numbers for microbit v2
-const int COL = 3;    // col 3 control
-const int ROW = 23;   // row 3 control
-const int LED = ROW;  // row 3 led
+const int COL = 3;    // COL3 control pin
+const int ROW = 23;   // ROW3 control pin
+const int LED = ROW;  // ROW3 LED
 
 // class/object declarations (none)
 
