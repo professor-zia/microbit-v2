@@ -1,4 +1,4 @@
-# micro:bit-v2
+# micro:bit Version 2
 Program micro:bit-v2 with arduino-ide-v2
 
 micro:bit website for beginners: https://microbit.org/
