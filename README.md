@@ -7,6 +7,8 @@ Program micro:bit in Blocks, JavaScript or Python: https://makecode.microbit.org
 
 micro:bit developer community site: https://tech.microbit.org/
 
+micro:bit hardware information: https://tech.microbit.org/hardware/
+
 # micro:bit Projects
 
 **micro:bit micro-mouse (Smart Cutebot)**
