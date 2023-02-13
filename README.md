@@ -5,6 +5,8 @@ micro:bit website for beginners: https://microbit.org/
 
 Program micro:bit in Blocks, JavaScript or Python: https://makecode.microbit.org/
 
+micro:bit User Guide: https://microbit.org/get-started/user-guide/overview/
+
 micro:bit developer community site: https://tech.microbit.org/
 
 micro:bit hardware information: https://tech.microbit.org/hardware/
