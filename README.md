@@ -13,7 +13,7 @@ micro:bit hardware information: https://tech.microbit.org/hardware/
 
 # micro:bit Projects
 
-**micro:bit micro-mouse (Smart Cutebot)**
+**micro:bit micro-mouse (Smart Cutebot)** https://github.com/professor-zia/microbit-v2-micro-mouse
 
 Cutebot Technical Information: https://www.elecfreaks.com/micro-bit-smart-cutebot.html
 
