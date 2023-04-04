@@ -11,7 +11,7 @@ micro:bit developer community site: https://tech.microbit.org/
 
 micro:bit hardware information: https://tech.microbit.org/hardware/
 
-micro:bit technical capabilities: https://tech.microbit.org/latest-revision/announcement/
+micro:bit for AI and ML: https://tech.microbit.org/latest-revision/announcement/
 
 # micro:bit Projects
 
