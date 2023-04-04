@@ -11,6 +11,8 @@ micro:bit developer community site: https://tech.microbit.org/
 
 micro:bit hardware information: https://tech.microbit.org/hardware/
 
+micro:bit technical capabilities: https://tech.microbit.org/latest-revision/announcement/
+
 # micro:bit Projects
 
 **micro:bit micro-mouse (Smart Cutebot)** https://github.com/professor-zia/microbit-v2-micro-mouse
